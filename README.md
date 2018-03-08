@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+All css and js dependencies are downloaded to corresponding folders so the project is accesible offline.
 
 # Project Goals
 
